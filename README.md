@@ -2,9 +2,14 @@
 
 A Local Heritage Photo Gallery application for preserving and showcasing the cultural heritage of Bettiah, Bihar. This web-based gallery allows users to upload, display, and tag heritage photos with a clean and intuitive interface.
 
+## 🚀 Live Demo
+
+**Try it now:** [https://snakeeye-sudo.github.io/Bettiah-Heritage-Gallery/](https://snakeeye-sudo.github.io/Bettiah-Heritage-Gallery/)
+
 ## Overview
 
 Bettiah Heritage Gallery is a client-side JavaScript application designed to celebrate and document the rich cultural heritage of Bettiah. The application enables users to:
+
 - Upload heritage photos locally
 - Display images in an organized gallery format
 - Add descriptive tags to categorize heritage items
@@ -41,25 +46,23 @@ cd Bettiah-Heritage-Gallery
 # On most systems, you can simply double-click index.html
 # Or use a local web server:
 python -m http.server 8000
-# Then visit http://localhost:8000
+# Then visit: http://localhost:8000
 ```
-
-4. Start uploading and tagging your Bettiah heritage photos!
 
 ## File Structure
 
 ```
 Bettiah-Heritage-Gallery/
-├── index.html          # Main HTML file with gallery structure
-├── script.js           # JavaScript logic for gallery functionality
-├── .gitignore         # Git ignore file
-└── README.md          # This file
+├── index.html      # Main HTML file with gallery interface
+├── script.js       # JavaScript file with all gallery functionality
+├── README.md       # Project documentation
+└── .gitignore      # Git ignore configuration
 ```
 
 ## Usage
 
-1. **Upload Photos**: Click the upload button or drag-and-drop images into the upload area
-2. **Add Tags**: When uploading, add relevant tags describing the heritage item (e.g., "Bettiah Palace", "historical", "architecture")
+1. **Open Application**: Launch `index.html` in your web browser or visit the [live demo](https://snakeeye-sudo.github.io/Bettiah-Heritage-Gallery/)
+2. **Upload Images**: Click the upload button or drag and drop heritage photos
 3. **View Gallery**: All uploaded images appear in the gallery grid
 4. **Filter**: Click on tags to filter and view related heritage photos
 5. **Manage**: Remove images or edit tags as needed
@@ -107,6 +110,12 @@ This project is licensed under the MIT License - you are free to use, modify, an
 - Image editing tools
 - Cloud storage integration
 - Community sharing features
+
+## 🔗 Links
+
+- **Live Demo:** [https://snakeeye-sudo.github.io/Bettiah-Heritage-Gallery/](https://snakeeye-sudo.github.io/Bettiah-Heritage-Gallery/)
+- **Repository:** [https://github.com/SnakeEye-sudo/Bettiah-Heritage-Gallery](https://github.com/SnakeEye-sudo/Bettiah-Heritage-Gallery)
+- **Developer:** [Er. Sangam Krishna (SnakeEye-sudo)](https://github.com/SnakeEye-sudo)
 
 ---
 
